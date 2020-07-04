@@ -15,6 +15,7 @@
 /.vs/DirectX-Graphics-Samples/v16
 /.vs
 /MiniEngine/ModelViewer/.vs/ModelViewer_VS16/v16/Browse.VC.opendb
+/MiniEngine/ModelConverter/.vs/ModelConverter_VS15/v16/Browse.VC.opendb
 /MiniEngine/Build_VS16/x64/Release/Intermediate
 /MiniEngine/Build_VS16/x64/Release/Output
 /MiniEngine/Build_VS16/x64
